@@ -2,6 +2,8 @@ if __name__ == '__main__':
     records=[]
     lst=[]
     names=[]
+    names = ["hello"]
+    names = []
     for _ in range(int(input())):
         name = input()
         score = float(input())
